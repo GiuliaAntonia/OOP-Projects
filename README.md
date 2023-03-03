@@ -19,18 +19,18 @@ Interactive menu features:
 
 ## Project 3 - Online shop management 	:computer:
 Is a continuation of the second project containing more menu features, singleton class, template classes and functions, vectors, lists and maps
-Implemented a mini-application with interactive menu that manages an online shop that sales books and parfumes. It includes five clases: 
-* Product details: genral details included in both books and parfumes (name, price, discount, cantity)
+Implemented a mini-application with interactive menu that manages an online shop that sales books and perfumes. It includes five clases: 
+* Product details: genral details included in both books and perfumes (name, price, discount, cantity)
 * Books: beside product details it includes author, discount code
-* Parfumes: beside product details it includes the number of ml
+* Perfumes: beside product details it includes the number of ml
 * Costumer: detail about the person buying products: costumer id, postal code
 * Order: order id
 
 Interactive menu features:
-* add costumers, books, parfumes
-* list the prices before the discount of the books/parfumes
+* add costumers, books, perfumes
+* list the prices before the discount of the books/perfumes
 * list books sorted in ascending order on prices
-* list parfumes sorted in descending order based on discount
+* list perfumes sorted in descending order based on discount
 * list all available products
 * list costumers in alphabetical order
 * place an order
