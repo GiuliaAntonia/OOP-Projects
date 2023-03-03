@@ -18,7 +18,7 @@ Interactive menu features:
 
 
 ## Project 3 - Online shop management 💻
-Is a continuation of the second project containing more menu features, singleton classes, template classes and functions, vectors, lists and maps Implemented a mini-application with an interactive menu that manages an online shop that sells books and perfumes. It includes five classes:
+Is a continuation of the second project containing more menu features, singleton classes, template classes and functions, vectors, lists and maps. Implemented a mini-application with an interactive menu that manages an online shop that sells books and perfumes. It includes five classes:
 
 * Product details: general details included in both books and perfumes (name, price, discount, quantity)
 * Books: beside product details, it includes author, discount code
