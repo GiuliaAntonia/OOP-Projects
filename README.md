@@ -18,6 +18,7 @@ Interactive menu features:
 * print devoted members (a devoted member is someone who borrowed more than 100 books and returned them all)
 
 ## Project 3 - Online shop management 	:computer:
+Is a continuation of the second project containing more menu features, singleton class, template classes and functions, vectors, lists and maps
 Implemented a mini-application with interactive menu that manages an online shop that sales books and parfumes. It includes five clases: 
 * Product details: genral details included in both books and parfumes (name, price, discount, cantity)
 * Books: beside product details it includes author, discount code
